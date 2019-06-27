@@ -1,0 +1,4 @@
+---
+
+swap_file_location: '/var/swap'
+swap_file_size: '1G'

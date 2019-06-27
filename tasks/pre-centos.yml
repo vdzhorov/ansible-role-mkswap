@@ -1,0 +1,6 @@
+---
+
+- name: Install fallocate
+  yum:
+    name: util-linux
+    state: installed
